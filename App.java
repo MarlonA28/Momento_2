@@ -16,7 +16,7 @@ public class App {
 
         double costoProducto;
         double totalCostos = 0;
-        double promedioCostos;
+        double promedioCostos ;
 
         // 3. Preguntar cuántos productos ingresarán
         System.out.print("¿Cuántos productos ingresarán al lote? ");
